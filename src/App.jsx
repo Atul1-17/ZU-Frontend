@@ -679,7 +679,7 @@ function Hero() {
           Building legacies, <em>not just buildings.</em>
         </SplitHeading>
         <div className="row">
-          <p className="rv" style={{ '--d': '.9s' }}>
+          <p className="st" style={{ '--d': '.9s' }}>
             ZU Developers is a construction and building company in India. We design and deliver residential, commercial and large-scale projects with clear timelines and honest pricing.
           </p>
           <Btn className="" d="1.1s" href="#projects">See our projects</Btn>
